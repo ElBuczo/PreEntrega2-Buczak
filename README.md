@@ -1,2 +1,2 @@
-# PreEntrega3-Buczak
-Tercera pre entrega
+# PreEntrega2-Buczak
+Segunda pre entrega
